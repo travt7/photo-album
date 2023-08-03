@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Shawn Torphy-Marquardt",
+      "id": 2
+    },
+    {
+      "name": "Darin Mraz DVM",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Intelligent Granite Chips",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Steel Shirt",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Soft Bike",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Wooden Tuna",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Metal Ball",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3334381370343424",
+      "id": 1
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/jedo27/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/480?lock=7925579546361856",
+      "id": 3
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/IPeQKu/640/480",
+      "id": 4
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/480?lock=6408273259397120",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/Si23l2a/640/480",
+      "id": 6
+    }
+  ]
+}
