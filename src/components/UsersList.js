@@ -105,6 +105,7 @@ function UsersList() {
             );
         });
     }
+    //practicing github DELETE LATER
     //had to get the data from the users slice of state. The users slice of state had to get the data from the API JSON server at http://localhost:3005/users
     //using the fetchUsers thunk function. The fetchUsers thunk function had to get the data from the API JSON server at http://localhost:3005/users using the fetchUsers
     //async action creator function. The useThunk hook had to get the data from the API JSON server at http://localhost:3005/users using the fetchUsers 

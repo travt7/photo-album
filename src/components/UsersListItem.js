@@ -34,6 +34,7 @@ function UsersListItem({ user }) {
         </ExpandablePanel>
     );
 }
+//practicing github DELETE LATER
 //So we will return the ExpandablePanel component function from UsersListItem.js. We will pass the header prop to the ExpandablePanel component.
 //We have the header with the delete button and the user name that ExpandablePanel will render. Bc if we delete the user from the server the ExpandablePanel
 //will still be rendered on the screen. If we delete the user from the server, we want to remove the ExpandablePanel from the screen as well. And all of the
