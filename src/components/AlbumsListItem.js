@@ -5,6 +5,7 @@ import ExpandablePanel from "./ExpandablePanel";
 import PhotosList from "./PhotosList";
 
 function AlbumsListItem({ album }) {
+    //this is me practicing github DELETE LATER
     const [removeAlbum, results] = useRemoveAlbumMutation();
     //first element is a function that we can call to run the mutation. Results object tells us about the status of the mutation.
 

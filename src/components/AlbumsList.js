@@ -5,6 +5,7 @@ import Button from './Button';
 import AlbumsListItem from './AlbumsListItem';
 
 function AlbumsList({ user }) {
+    //this is me practicing github DELETE LATER
     //user is passed in as a prop to the AlbumsList component from the UsersListItem component because we want to fetch the albums that are tied to that particular user.
 
     //fetching data with a query and changing data with a mutation. Queries run immediately(default behavior) when the AlbumsList is rendered on the screen. AlbumsList is a children prop of Expandable Panel
