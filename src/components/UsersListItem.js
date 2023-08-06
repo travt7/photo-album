@@ -34,9 +34,9 @@ function UsersListItem({ user }) {
         </ExpandablePanel>
     );
 }
-//practicing github DELETE LATER
-//If we delete the user from the server, we want to remove the ExpandablePanel from the screen as well. And all of the
-//content that is inside of the ExpandablePanel component. Bc a UsersListItem is only returned from the UsersList component if the user is still on the server
+//practicing github DELETE
+//If we delete the user object from the server, we want to remove the ExpandablePanel from the screen as well. And all of the
+//content that is inside of the ExpandablePanel component. UsersListItem is only returned from the UsersList component if the user object is still on the server
 //in the data array that we map over. So if the user is still on the server, we want to render the ExpandablePanel component. If the user is not on the server, we don't want to
 //render the ExpandablePanel component for deleted user.
 //So we will return the ExpandablePanel component function from UsersListItem.js. We will pass the header prop to the ExpandablePanel component.
