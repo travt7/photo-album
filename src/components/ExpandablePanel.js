@@ -26,6 +26,7 @@ function ExpandablePanel({ header, children }) {
 }
 //delete button and header will be displayed by header prop
 //need state to expand and collapse the panel
+//practice github DELETE LATER
 
 //when we expand a panel, we will fetch all of the albums related to that user
 //and AlbumsList component has a prop called user that we can pass the user object to 
