@@ -2,6 +2,7 @@ import className from 'classnames';
 import { GoSync } from 'react-icons/go';
 
 //create a button component that will be used in multiple places in our application.
+//whoops 
 function Button({
   children,
   primary,
